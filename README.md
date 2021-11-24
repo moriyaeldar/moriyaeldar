@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Moriya Eldar</h1>
 <h3 align="center">A passionate Full-Stack/Frontend developer</h3>
 
-- 🔭 I’m currently working on **#kulla_like Project management system**
-
 - 👨‍💻 my latast project are available at [https://travellive.herokuapp.com/](https://travellive.herokuapp.com/)
 
 - 📫 How to reach me **moriyaz1@gmail.com**
