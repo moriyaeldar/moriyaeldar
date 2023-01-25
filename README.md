@@ -1,8 +1,5 @@
 <h1 align="center">Hi , I'm Moriya Eldar</h1>
 
-- 👨‍💻 my latast project are available at [https://travellive.herokuapp.com/](https://travellive.herokuapp.com/)
-
-- 📫 How to reach me **moriyaz1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
