@@ -1,30 +1,28 @@
 # Hi, I'm Moriya 👋
 
-## Software Developer & Scrum Master
+## Lead Developer & Scrum Master
 
-I'm a full-stack developer based in Israel, currently working at **Bank Hapoalim** where I build and modernize digital banking products.
+I'm a full-stack developer based in Israel, currently leading web development in the **Credit Tribe at Bank Hapoalim**. I build applications with Angular, TypeScript, and Node.js on the frontend and Java microservices on the backend. I'm passionate about AI-assisted development and building AI-powered tools.
 
 ### 🛠️ Tech Stack
 - **Languages:** TypeScript, JavaScript, Java
 - **Frontend:** Angular
-- **Backend:** Node.js
+- **Backend:** Node.js, Java Microservices
 - **Mobile:** Flutter
-- **Testing:** Jest
-- **Tools:** Git, CI/CD
+- **AI:** AI-assisted development, AI tool development, Prompt Engineering
+- **Testing & Tools:** Jest, Git, CI/CD
 
 ### 🌱 What I'm Up To
-- 💼 Building digital banking solutions at Bank Hapoalim
+- 💼 Leading development in the Credit Tribe at Bank Hapoalim
+- 🤖 Exploring AI-assisted development and building AI-powered tools
 - 🤝 Contributing to [Yedidim](https://github.com/) — an open-source roadside assistance app
 - 📚 Previously taught web development at She Codes
 
 ### 🎓 Background
-- Full Stack Web Development — Coding Academy
+- Full Stack Web Development — Code Academy
 - M.A. Social Psychology (with Thesis) — Bar-Ilan University
 - B.Ed. (Honors) — Efrata College
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/moriya-eldar/)
 - ✉️ moriyaz1@gmail.com
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moriyaeldar&show_icons=true&locale=en&layout=compact" alt="moriyaeldar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moriyaeldar&show_icons=true&locale=en" alt="moriyaeldar" /></p>
