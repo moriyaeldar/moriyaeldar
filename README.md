@@ -1,27 +1,44 @@
 # Hi, I'm Moriya 👋
 
-## Lead Developer & Scrum Master
+## Full Stack Developer
 
-I'm a full-stack developer based in Israel, currently leading web development in the **Credit Tribe at Bank Hapoalim**. I build applications with Angular, TypeScript, and Node.js on the frontend and Java microservices on the backend. I'm passionate about AI-assisted development and building AI-powered tools.
+I'm a full-stack developer based in Israel with 4+ years of experience in banking and fintech. I currently work in the **Credit Tribe at Bank Hapoalim**, where I build end-to-end features, from Angular + TypeScript interfaces to Java microservices, and serve as the team's Scrum Master.
+
+I care about both sides of the stack equally: clean, well-structured UIs and reliable, well-designed APIs and data models. Lately I've been building AI-powered tools and using AI-assisted development in my daily work.
 
 ### 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, Java
-- **Frontend:** Angular
-- **Backend:** Node.js, Java Microservices
-- **Mobile:** Flutter
-- **AI:** AI-assisted development, AI tool development, Prompt Engineering
-- **Testing & Tools:** Jest, Git, CI/CD
+
+| Frontend | Backend | Data & Infra |
+|---|---|---|
+| Angular · React | Java · Spring Boot | MongoDB · SQL (SQLAlchemy) |
+| TypeScript · JavaScript | Node.js · Express | REST APIs · WebSockets (Socket.io) |
+| RxJS · Redux · React Query | Python · FastAPI | AWS (Cognito, Lambda) · Railway |
+| Tailwind · SCSS · Material | Microservices · JWT / session auth | Git · CI/CD · Jest |
+
+**Mobile:** React Native, Flutter  **AI:** Claude API integration, prompt engineering, AI-assisted development
+
+### 🚀 Featured Projects
+
+| Project | What it is | Frontend | Backend |
+|---|---|---|---|
+| [**myFinance**](https://github.com/moriyaeldar/myFinance) | Personal finance dashboard: Israeli/US bank imports, auto-categorization, AI savings advice with Claude | React, TanStack Query, Tailwind, Recharts | Python, FastAPI, SQLAlchemy, Plaid, Claude API |
+| [**Travel&Live**](https://github.com/moriyaeldar/Travel-Live-Frontend) | Airbnb-style booking platform with a host dashboard and real-time notifications | React, Redux, SCSS, Material-UI | [Node.js, Express, MongoDB, Socket.io](https://github.com/moriyaeldar/Travel-Live-Backend) |
+| [**Cling**](https://github.com/moriyaeldar/cling) | Discover and join local group activities | Angular, RxJS, Angular Material | AWS Amplify / Cognito, API Gateway + Lambda |
+| [**Who's Looz**](https://github.com/moriyaeldar/Who-sLooz) | Schedule management REST service | — | Java, Spring Boot, Spring Data MongoDB |
+| [**jpic-server**](https://github.com/moriyaeldar/jpic-server) | API for a photography portfolio with auth and image uploads | — | Node.js, Express, Mongoose, JWT, Multer |
+| [**BetterJob**](https://github.com/moriyaeldar/BetterJob) | Compare job offers side by side, offline-first | React, TypeScript, Tailwind, IndexedDB | — |
+| [**Safe10**](https://github.com/moriyaeldar/Safe10) | Personal safety mobile app (in progress) | React Native, TypeScript | — |
 
 ### 🌱 What I'm Up To
-- 💼 Leading development in the Credit Tribe at Bank Hapoalim
-- 🤖 Exploring AI-assisted development and building AI-powered tools
-- 🤝 Contributing to [Yedidim](https://github.com/) — an open-source roadside assistance app
+- 💼 Building full-stack features in the Credit Tribe at Bank Hapoalim
+- 🤖 Building AI-powered tools and integrating LLMs into real products
+- 🤝 Contributing to Yedidim, a volunteer roadside assistance app
 - 📚 Previously taught web development at She Codes
 
 ### 🎓 Background
-- Full Stack Web Development — Code Academy
-- M.A. Social Psychology (with Thesis) — Bar-Ilan University
-- B.Ed. (Honors) — Efrata College
+- Full Stack Web Development: Code Academy
+- M.A. Social Psychology (with thesis): Bar-Ilan University
+- B.Ed. (Honors): Efrata College
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/moriya-eldar/)
