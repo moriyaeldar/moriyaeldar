@@ -21,6 +21,7 @@ I care about both sides of the stack equally: clean, well-structured UIs and rel
 
 | Project | What it is | Frontend | Backend |
 |---|---|---|---|
+| [**Luach · לוח**](https://github.com/moriyaeldar/luach) | Smart family task system: weekly schedule in Hebrew and Gregorian dates, recurrence by Hebrew date (leap years, 30 Cheshvan), Hebrew/English. In progress | Angular 22, Signals, Angular Material, RTL/LTR | Java 21, Spring Boot 4 microservices, Spring Cloud Gateway, PostgreSQL, Flyway, Testcontainers |
 | [**myFinance**](https://github.com/moriyaeldar/myFinance) | Personal finance dashboard: Israeli/US bank imports, auto-categorization, AI savings advice with Claude | React, TanStack Query, Tailwind, Recharts | Python, FastAPI, SQLAlchemy, Plaid, Claude API |
 | [**Travel&Live**](https://github.com/moriyaeldar/Travel-Live-Frontend) | Airbnb-style booking platform with a host dashboard and real-time notifications | React, Redux, SCSS, Material-UI | [Node.js, Express, MongoDB, Socket.io](https://github.com/moriyaeldar/Travel-Live-Backend) |
 | [**Cling**](https://github.com/moriyaeldar/cling) | Discover and join local group activities | Angular, RxJS, Angular Material | AWS Amplify / Cognito, API Gateway + Lambda |
@@ -31,6 +32,7 @@ I care about both sides of the stack equally: clean, well-structured UIs and rel
 
 ### 🌱 What I'm Up To
 - 💼 Building full-stack features in the Credit Tribe at Bank Hapoalim
+- 📅 Building [Luach](https://github.com/moriyaeldar/luach), a family task system on Java microservices and Angular
 - 🤖 Building AI-powered tools and integrating LLMs into real products
 - 🤝 Contributing to Yedidim, a volunteer roadside assistance app
 - 📚 Previously taught web development at She Codes
